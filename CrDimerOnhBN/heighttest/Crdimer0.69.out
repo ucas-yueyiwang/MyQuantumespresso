@@ -1,0 +1,3 @@
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd-yueyi-Lenovo-Legion-Y9000X-2021: error: *** JOB 40 ON yueyi-Lenovo-Legion-Y9000X-2021 CANCELLED AT 2021-03-28T03:03:43 DUE TO TIME LIMIT ***
+slurmstepd-yueyi-Lenovo-Legion-Y9000X-2021: error: *** STEP 40.0 ON yueyi-Lenovo-Legion-Y9000X-2021 CANCELLED AT 2021-03-28T03:03:43 DUE TO TIME LIMIT ***

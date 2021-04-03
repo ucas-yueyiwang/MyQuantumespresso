@@ -1,0 +1,1 @@
+print("sbatch {name}.scf.slurm")
